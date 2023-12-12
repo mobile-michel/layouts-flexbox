@@ -1,7 +1,7 @@
 {
-    "name": "2d-sass",
-    "version": "1.0.1",
-    "description": "Basic template with Eleventy, LiquidJS & Sass processing",
+    "name": "Flexbox",
+    "version": "1.0.2",
+    "description": "Flexbox layouts with Sass processing",
     "main": "eleventy.config.js",
     "scripts": {
         "watch:eleventy": "npx @11ty/eleventy --serve",
@@ -19,6 +19,6 @@
     "license": "ISC",
     "dependencies": {
         "@11ty/eleventy": "^2.0.1",
-        "sass": "^1.69.0"
+        "sass": "^1.69.5"
     }
 }
