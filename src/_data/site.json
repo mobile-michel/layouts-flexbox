@@ -5,5 +5,5 @@
     "authorName": "Michel Maillard",
     "authorUrl": "https://michelmaillard.ch/",
     "favicon": "https://11ty.recipes/images/meta/favicon.svg",
-    "css": "style.css"
+    "css": "/assets/css/style.css"
 }

@@ -1,5 +1,5 @@
 {
     "layout": "base-flex",
     "tags": "primary",
-    "css": "flexbox.css"
+    "css": "/assets/css/flexbox.css"
 }
